@@ -1,4 +1,4 @@
-LET n = number of given inputs
+
 
 LET list = list of the given input
 
